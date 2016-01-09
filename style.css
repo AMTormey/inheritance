@@ -1,3 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
 #para1 {
   font-weight: bold;
+}
+h2 {
+  font-weight: normal;
+}
+#para1 {
+  font-weight: 100;
+  font-family: "Georgia", serif;
+}
+#para2 {
+  font-weight: 300;
+  font-family: sans-serif;
+}
+#para3 {
+  font-weight: 700;
+  font-family: monospace;
+}
+#para4 {
+  font-weight: 900;
+  font-family: cursive;
 }
